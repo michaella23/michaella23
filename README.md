@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source projects for Hacktoberfest, using my frontend knowledge.
 - 🤔 Things I need to look into, how to create React apps using Vite and more about Markdown.
 - 💬 Ask me about the Scrimba course I recently created!
-- 📫 How to reach me: (https://www.linkedin.com/michaella-rodriguez)[LinkedIn], (https://www.twitter.com/NotMichaella)[Twitter]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/michaella-rodriguez), [Twitter](https://www.twitter.com/NotMichaella)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have never visited another continent! I need to!
 
