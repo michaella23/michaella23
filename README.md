@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on building a RESTful API.
 - 🌱 I’m currently learning Java, Spring Boot and SQL.
