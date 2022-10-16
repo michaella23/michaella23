@@ -1,5 +1,5 @@
-<header align="center">
-  <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" alt="animated gif of open laptop computer with pulsing cloud and lightbulbs in bright rainbow colors" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" alt="animated gif of open laptop computer with pulsing cloud and lightbulbs in bright rainbow colors" width="200" />
   <div id="badges">
     <a href="https://www.linkedin.com/michaella-rodriguez">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,11 +12,17 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=michaella23&style=flat-square&color=blue" alt=""/>
-</header>
+  <h1> Hi there 👋 </h1>
+</div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26tPgbUUcfS5IWiTm/giphy.gif" alt="psychedelic gif of computers in a field of flowers and wildlife" width="750" />
+</div>
 
+---
 
-## Hi there 👋
+## :woman_technologist: About Me
+I'm a web developer who enjoys building applications using frontend languages and frameworks, with a focus on accessibility and clean design. While my happy place is creating interfaces that users will interact with, I like to learn about what happens behind the scenes.
 
 - 🔭 I’m currently working on building a RESTful API.
 - 🌱 I’m currently learning Java, Spring Boot and SQL.
@@ -27,3 +33,19 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have never visited another continent! I need to!
 
+## :hammer_and_wrench: Languages and Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+</div>
