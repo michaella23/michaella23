@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" alt="animated gif of open laptop computer with pulsing cloud and lightbulbs in bright rainbow colors" width="200" />
   <div id="badges">
-    <a href="https://www.linkedin.com/michaella-rodriguez">
+    <a href="https://www.linkedin.com/in/michaella-rodriguez" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="http://www.michaella-rodriguez-portfolio.netlify.app">
+    <a href="http://www.michaella-rodriguez-portfolio.netlify.app" target="_blank">
       <img src="https://img.shields.io/badge/My Portfolio-orange?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    <a href="https://www.twitter.com/NotMichaella">
+    <a href="https://www.twitter.com/NotMichaella" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
