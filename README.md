@@ -1,3 +1,21 @@
+<header align="center">
+  <img src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" alt="animated gif of open laptop computer with pulsing cloud and lightbulbs in bright rainbow colors" />
+  <div id="badges">
+    <a href="https://www.linkedin.com/michaella-rodriguez">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="http://www.michaella-rodriguez-portfolio.netlify.app">
+      <img src="https://img.shields.io/badge/My Portfolio-orange?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://www.twitter.com/NotMichaella">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=michaella23&style=flat-square&color=blue" alt=""/>
+</header>
+
+
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on building a RESTful API.
