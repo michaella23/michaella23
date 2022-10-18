@@ -4,8 +4,8 @@
     <a href="https://www.linkedin.com/in/michaella-rodriguez" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="http://www.michaella-rodriguez-portfolio.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/My Portfolio-orange?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge"/>
+    <a href="https://michaella23.github.io/My-Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/My Portfolio-orange?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <a href="https://www.twitter.com/NotMichaella" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
