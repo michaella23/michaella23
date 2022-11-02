@@ -26,7 +26,7 @@ I'm a web developer who enjoys building applications using frontend languages an
 
 - 🔭 I’m currently working on building a RESTful API.
 - 🌱 I’m currently learning Java, Spring Boot and SQL.
-- 👯 I’m looking to collaborate on open source projects for Hacktoberfest, using my frontend knowledge.
+- 👯 I’m looking to collaborate on open source projects, using my frontend knowledge and focus on web accessibility issues..
 - 🤔 Things I need to look into... how to create React apps using Vite and more about Markdown.
 - 💬 Ask me about the Scrimba course I recently created!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/michaella-rodriguez), [Twitter](https://www.twitter.com/NotMichaella)
