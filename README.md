@@ -59,6 +59,7 @@ I'm a web developer who enjoys building applications using frontend languages an
 ---
 
 ## :writing_hand: Blog posts:
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
