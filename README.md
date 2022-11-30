@@ -24,11 +24,11 @@
 ## :woman_technologist: About Me
 I'm a web developer who enjoys building applications using frontend languages and frameworks, with a focus on accessibility and clean design. While my happy place is creating interfaces that users will interact with, I like to learn about what happens behind the scenes.
 
-- 🔭 I’m currently working on building a RESTful API.
-- 🌱 I’m currently learning Java, Spring Boot and SQL.
+- 🔭 I’m currently working on building a Spring Batch Process.
+- 🌱 I’m currently learning Spring Boot and Spring Batch.
 - 👯 I’m looking to collaborate on open source projects, using my frontend knowledge and focus on web accessibility issues..
-- 🤔 Things I need to look into... how to create React apps using Vite and more about Markdown.
-- 💬 Ask me about the Scrimba course I recently created!
+- 🤔 Things I need to look into... how to create React apps using Vite.
+- 💬 Ask me about the Scrimba [course](https://scrimba.com/playlist/pw5gDse) I recently created!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/michaella-rodriguez), [Twitter](https://www.twitter.com/NotMichaella)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have never visited another continent! I need to!
@@ -60,6 +60,8 @@ I'm a web developer who enjoys building applications using frontend languages an
 
 ## :writing_hand: Blog posts:
 <!-- BLOG-POST-LIST:START -->
+[Scrimba's Teacher Talent Program, An Awesome Learning Experience](https://dev.to/michaella23/scrimbas-teacher-talent-program-an-awesome-learning-experience-199l)
+[Learn Markdown for READMEs and More](https://dev.to/michaella23/learn-markdown-for-readmes-and-more-4gb2)
 <!-- BLOG-POST-LIST:END -->
 
 
