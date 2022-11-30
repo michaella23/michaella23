@@ -60,8 +60,8 @@ I'm a web developer who enjoys building applications using frontend languages an
 
 ## :writing_hand: Blog posts:
 <!-- BLOG-POST-LIST:START -->
-[Scrimba's Teacher Talent Program, An Awesome Learning Experience](https://dev.to/michaella23/scrimbas-teacher-talent-program-an-awesome-learning-experience-199l)
-[Learn Markdown for READMEs and More](https://dev.to/michaella23/learn-markdown-for-readmes-and-more-4gb2)
+- [Scrimba's Teacher Talent Program, An Awesome Learning Experience](https://dev.to/michaella23/scrimbas-teacher-talent-program-an-awesome-learning-experience-199l)
+- [Learn Markdown for READMEs and More](https://dev.to/michaella23/learn-markdown-for-readmes-and-more-4gb2)
 <!-- BLOG-POST-LIST:END -->
 
 
