@@ -24,11 +24,11 @@
 ## :woman_technologist: About Me
 I'm a web developer who enjoys building applications using frontend languages and frameworks, with a focus on accessibility and clean design. While my happy place is creating interfaces that users will interact with, I like to learn about what happens behind the scenes.
 
-- 🔭 I’m currently working on building a Spring Batch Process.
-- 🌱 I’m currently learning Spring Boot and Spring Batch.
-- 👯 I’m looking to collaborate on open source projects, using my frontend knowledge and focus on web accessibility issues..
+- 🔭 I’m currently working on daily coding challenges as part of [Scrimba](https://scrimba.com)'s [JavaScriptmas](https://scrimba.com/learn/javascriptmas) event! 🎄
+- 🌱 I’m currently learning about Spring Batch... slowly but slowly.
+<!-- - 👯 I’m looking to collaborate on open source projects, using my frontend knowledge and focus on web accessibility issues. -->
 - 🤔 Things I need to look into... how to create React apps using Vite.
-- 💬 Ask me about the Scrimba [course](https://scrimba.com/playlist/pw5gDse) I recently created!
+- 💬 Ask me about the [Scrimba](https://scrimba.com) [course](https://scrimba.com/playlist/pw5gDse) I recently created!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/michaella-rodriguez), [Twitter](https://www.twitter.com/NotMichaella)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have never visited another continent! I need to!
