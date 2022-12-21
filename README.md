@@ -26,7 +26,7 @@ I'm a web developer who enjoys building applications using frontend languages an
 
 - 🔭 I’m currently working on daily coding challenges as part of [Scrimba](https://scrimba.com)'s [JavaScriptmas](https://scrimba.com/learn/javascriptmas) event! 🎄
 - 🌱 I’m currently learning about Spring Batch... slowly but slowly.
-- 🤔 Things I need to look into... how to create React apps using Vite.
+- 🤔 Things I need to look into... how to create React apps using Vite, using Tailwind CSS.
 - 💬 Ask me about the [Scrimba](https://scrimba.com) [course](https://scrimba.com/playlist/pw5gDse) I recently created!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/michaella-rodriguez), [Twitter](https://www.twitter.com/NotMichaella)
 - 😄 Pronouns: she/her/hers
