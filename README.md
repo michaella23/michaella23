@@ -55,7 +55,8 @@ I'm a web developer who enjoys building applications using frontend languages an
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michaella23&theme=github-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaella23&layout=compact&theme=vision-friendly-dark)](https://github.com/michaella23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaella23&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## :writing_hand: Blog posts:
