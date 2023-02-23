@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tPgbUUcfS5IWiTm/giphy.gif" alt="psychedelic gif of computers in a field of flowers and wildlife" width="750" />
+  <img src="https://media.giphy.com/media/26tPgbUUcfS5IWiTm/giphy.gif" alt="psychedelic gif of computers in a field of flowers and wildlife" width="900" />
 </div>
 
 ---
