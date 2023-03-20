@@ -25,9 +25,9 @@
 I'm a web developer who enjoys building applications using frontend languages and frameworks, with a focus on accessibility and clean design. While my happy place is creating interfaces that users will interact with, I like to learn about what happens behind the scenes.
 
 - 🔭 I’m currently working on daily coding challenges as part of [Scrimba](https://scrimba.com)'s [JavaScriptmas](https://scrimba.com/learn/javascriptmas) event! 🎄
-- 🌱 I’m currently learning about Spring Batch... slowly but slowly.
-- 🤔 Things I need to look into... how to create React apps using Vite, using Tailwind CSS.
-- 💬 Ask me about the [Scrimba](https://scrimba.com) [course](https://scrimba.com/playlist/pw5gDse) I recently created!
+- 🌱 I’m currently learning more about accessibility and compiling my favorite resources
+- 🤔 Things I need to look into... how to create React apps using Vite, the new Firebase course on [Scrimba](https://scrimba.com)
+- 💬 Ask me about the [Scrimba](https://scrimba.com) [mini-course](https://scrimba.com/playlist/pw5gDse) I recently created!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/michaella-rodriguez), [Twitter](https://www.twitter.com/NotMichaella)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have never visited another continent! I need to!
