@@ -24,13 +24,13 @@
 ## :woman_technologist: About Me
 I'm a web developer who enjoys building applications using frontend languages and frameworks, with a focus on accessibility and clean design. While my happy place is creating interfaces that users will interact with, I like to learn about what happens behind the scenes.
 
-- 🔭 I’m currently working on building more frontend projects after quite a while. I missed it!
-- 🌱 I’m currently learning more about accessibility and compiling my favorite resources.
-- 🤔 Things I need to look into... how to create React apps using Vite, the new Firebase course on [Scrimba](https://scrimba.com)
-- 💬 Ask me about the [Scrimba](https://scrimba.com) [mini-course](https://scrimba.com/playlist/pw5gDse) I recently created!
+- 🔭 I’m currently working on maintaining an open source project for the [Scrimba Bootcamp](https://scrimba.com/bootcamp).
+- 🌱 I’m also learning more about accessibility and compiling my favorite resources.
+- 🤔 Things I need to look into... how to create React apps using Vite, the new [Build AI Apps with ChatGPT, Dall-E and GPT-4 course](https://scrimba.com/learn/buildaiapps) on Scrimba.
+- 💬 Ask me about the [Scrimba](https://scrimba.com) Bootcamp!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/michaella-rodriguez), [Twitter](https://www.twitter.com/NotMichaella)
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I have never visited another continent! I need to!
+- ⚡ Fun fact: I have never travelled across the ocean, but I'm going to next month!
 <!-- - 👯 I’m looking to collaborate on open source projects, using my frontend knowledge and focus on web accessibility issues. -->
 
 ## :hammer_and_wrench: Languages and Tools
