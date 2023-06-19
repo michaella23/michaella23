@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/26tPgbUUcfS5IWiTm/giphy.gif" alt="psychedelic gif of computers in a field of flowers and wildlife" width="900" />
 </div>
-<p color="#123456">formatted text</p>
+
 ---
 
 ## :woman_technologist: About Me
