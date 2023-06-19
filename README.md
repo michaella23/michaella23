@@ -31,6 +31,7 @@ I'm a web developer who enjoys building applications using frontend languages an
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/michaella-rodriguez), [Twitter](https://www.twitter.com/NotMichaella)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have never travelled across the ocean, but I'm going to next month!
+<li style="color: green">another list item</li>
 <!-- - 👯 I’m looking to collaborate on open source projects, using my frontend knowledge and focus on web accessibility issues. -->
 
 ## :hammer_and_wrench: Languages and Tools
