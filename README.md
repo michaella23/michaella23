@@ -24,7 +24,7 @@
 ## :woman_technologist: About Me
 I'm a web developer who enjoys building applications using frontend languages and frameworks, with a focus on accessibility and clean design. While my happy place is creating interfaces that users will interact with, I like to learn about what happens behind the scenes.
 
-- 🔭 I’m currently participating in #100DaysOfCode (for the third time.
+- 🔭 I’m currently participating in #100DaysOfCode (for the third time).
 - 🌱 I’m learning more about Firebase, Firestore, and AI Engineering.
 - 🤔 Things I need to look into... the new [AI Engineering Path](https://scrimba.com/learn/aiengineer) on Scrimba.
 - 💬 Ask me about the [Scrimba Bootcamp](https://scrimba.com/bootcamp)!
