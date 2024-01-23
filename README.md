@@ -56,7 +56,7 @@ I'm a web developer who enjoys building applications using frontend languages an
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michaella23&theme=github-dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=michaella23&theme=dark)](https://git.io/streak-stats)-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=michaella23)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=michaella23&theme=dark)](https://git.io/streak-stats)
 
 <!-- [![Michaella's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaella23&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
 
