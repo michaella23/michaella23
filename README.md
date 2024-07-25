@@ -24,13 +24,13 @@
 ## :woman_technologist: About Me
 I'm a web developer who enjoys building applications using frontend languages and frameworks, with a focus on accessibility and clean design. While my happy place is creating interfaces that users will interact with, I like to learn about what happens behind the scenes.
 
-- 🔭 I’m currently participating in #100DaysOfCode (for the third time).
-- 🌱 I’m learning more about Firebase, Firestore, and AI Engineering.
-- 🤔 Things I need to look into... the new [AI Engineering Path](https://scrimba.com/learn/aiengineer) on Scrimba.
-- 💬 Ask me about the [Scrimba Bootcamp](https://scrimba.com/bootcamp)!
+- 🔭 I’m currently maintaining an Open Source project for the [Scrimba](https://scrimba.com) Bootcamp.
+- 🌱 I’m learning more about web accessibility.
+- 🤔 Things I need to look into... Astro JS!
+- 💬 Ask me about the Scrimba [Bootcamp](https://scrimba.com/bootcamp)!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/michaella-rodriguez), [Twitter](https://www.twitter.com/NotMichaella)
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I am going to my first tech conference later this month!
+- ⚡ Fun fact: I am going to my THAT Conference in Wisconsin this July.
 
 <!-- - 👯 I’m looking to collaborate on open source projects, using my frontend knowledge and focus on web accessibility issues. -->
 
