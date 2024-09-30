@@ -24,15 +24,14 @@
 ## :woman_technologist: About Me
 I'm a web developer who enjoys building applications using frontend languages and frameworks, with a focus on accessibility and clean design. While my happy place is creating interfaces that users will interact with, I like to learn about what happens behind the scenes.
 
-- 🔭 I’m currently maintaining an Open Source project for the [Scrimba](https://scrimba.com) Bootcamp.
-- 🌱 I’m learning more about web accessibility.
-- 🤔 Things I need to look into... Astro JS!
-- 💬 Ask me about the Scrimba [Bootcamp](https://scrimba.com/bootcamp)!
+- 🔭 I’m currently working as the Learning Program Manager for the [Scrimba](https://scrimba.com) Bootcamp.
+- 🌱 I’ve been learning how to create CSS art, and am interested in how to make it accessible.
+- 🤔 Things I am learning more about - writing great technical documentation and test-driven development.
+- 👯 I’m looking to collaborate on open source projects, using my frontend knowledge and focus on web accessibility issues.
+- 💬 Ask me about accessibility! It is my passion. 😊
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/michaella-rodriguez), [Twitter](https://www.twitter.com/NotMichaella)
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I am going to my THAT Conference in Wisconsin this July.
-
-<!-- - 👯 I’m looking to collaborate on open source projects, using my frontend knowledge and focus on web accessibility issues. -->
+- ⚡ Fun fact: I recently started streaming on Twitch, solving [CSS Battle](https://cssbattle.dev) challenges.
 
 ## :hammer_and_wrench: Languages and Tools
 
